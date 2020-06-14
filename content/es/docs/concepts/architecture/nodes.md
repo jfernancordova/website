@@ -177,7 +177,7 @@ Para reservar explícitamente recursos en la máquina huésped para procesos no 
 
 ## Objeto API
 
-Un nodo es un recurso principal dentro de la REST API de Kubernetes. Más detalles sobre el objeto en la  API se puede encontrar en: [Object Node API](/docs/reference/generated/kubernetes-api/{{< param "version" >}}/#node-v1-core).
+Un nodo es un recurso principal dentro de la REST API de Kubernetes. Más detalles sobre el objeto API se puede encontrar en: [Object Node API](/docs/reference/generated/kubernetes-api/{{< param "version" >}}/#node-v1-core).
 
 
 
